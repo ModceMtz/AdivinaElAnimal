@@ -23,7 +23,11 @@ ANIMALES = [
     ('Capibara', 'Amigo de todos.'),
     ('Canguro', 'Animal boxeador.'),
     ('Aguila', 'Ave rapaz con vista aguda y gran cazadora.'),
-    ('Murcielago', 'Mamífero volador.')
+    ('Murcielago', 'Mamífero volador.'),
+    ('Morsa','Con colmillos prominentes y vive en aguas frías.'),
+    ('Flamenco', 'Rosa por su dieta de crustáceos.'),
+    ('Halcón','Velocidad y habilidad de caza en vuelo.'),
+    ('Rinoceronte','Gran tamaño y piel gruesa.')
 ]
 
 
